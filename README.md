@@ -1,3 +1,27 @@
+# Cake and Ice Creams
+
+A responsive website showcasing cakes and ice creams, built with HTML, CSS, and JavaScript.  
+Designed to be mobile-friendly and visually appealing for portfolio presentation.
+
+---
+
+## Tech Stack / Topics
+
+- **HTML** — structure of the website  
+- **CSS** — styling and layout  
+- **JavaScript** — interactivity  
+- **Responsive Design** — mobile-friendly layout  
+- **Portfolio** — part of personal projects
+-**Next.js**--
+---
+
+## Installation & Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Alex-cpu343/CakeAndIceCreams-WebSite.git
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started

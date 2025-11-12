@@ -12,7 +12,7 @@ Designed to be mobile-friendly and visually appealing for portfolio presentation
 - **JavaScript** — interactivity  
 - **Responsive Design** — mobile-friendly layout  
 - **Portfolio** — part of personal projects
--**Next.js**--
+- **Next.js** 
 ---
 
 ## Installation & Setup
